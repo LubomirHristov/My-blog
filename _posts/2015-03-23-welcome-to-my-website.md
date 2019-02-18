@@ -3,6 +3,7 @@ layout:     post
 title:      Welcome to my website
 date:       2019-02-13 15:31:19
 author:     Lyubomir Hristov
+categories: jekyll
 thumbnail:  heart
 tags:
  - welcome
@@ -11,5 +12,5 @@ tags:
 
 Welcome to my personal website!
 
-Expect my first posts soon! :)
+Expect my first posts about my projects soon! :)
 
